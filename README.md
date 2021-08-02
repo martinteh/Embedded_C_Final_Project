@@ -1,5 +1,7 @@
 # Course project - Mine navigation search and rescue
 
+## Graded an A.
+
 ## Challenge brief
 
 Your task is to develop an autonomous robot that can navigate a "mine" using a series of instructions coded in coloured cards and return to its starting position.  Your robot must be able to perform the following: 
